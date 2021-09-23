@@ -1,7 +1,7 @@
 # Submission of Assignment DAA Lab
 
 ### Name :- Roop Kumar
-### Section :- ML  
+### Section :- A
 ### University Roll No :- 1961145
 #
 ### Lab Work
